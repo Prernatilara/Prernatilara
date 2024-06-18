@@ -3,8 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     /* overflow: hidden; */
+    background-image: url(background-image.jpg);
+    background-size: cover;
 }
 .parent{
     display: grid;
