@@ -3,7 +3,7 @@
 🎓 **Sophomore at IIT ISM Dhanbad**  
 💻 **Front-end Developer** | **React Learner** 
 🌟 **Competitive programmer (C++)**  
-📚 **NXP WIT Participant** | **Vahani Scholar**  
+📚 **NXP WIT'24 Scholar** | **Vahani Scholar**  
 🚀 **Building impactful projects and learning every day!**
 
 ---
@@ -21,8 +21,8 @@
 ---
 
 ### 📫 **Let's Connect**
-- **LinkedIn**: [](https://www.linkedin.com/in/prerna-tilara-968811285/)
-- **Codeforces**:[](https://codeforces.com/profile/prernatilara373)
+- **LinkedIn**: [Prerna Tilara](https://www.linkedin.com/in/prerna-tilara-968811285/) 
+- **Codeforces**: [prernatilara373](https://codeforces.com/profile/prernatilara373)
 
 
 ---
