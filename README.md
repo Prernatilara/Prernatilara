@@ -11,6 +11,7 @@
 ### 🛠️ **Languages and Tools**
 - HTML | CSS | JavaScript | React
 - C++  | C
+- MS Excel
 
 ---
 
